@@ -1,4 +1,4 @@
-# AWS-bsdtion-host
+# AWS- amazon Aurora Db instance  with Amazon EC2 instance
 
 Connect amazon Aurora Db instance  with Amazon EC2 instance
 https://aws.amazon.com/premiumsupport/knowledge-center/aurora-mysql-connect-outside-vpc/
